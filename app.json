@@ -1,0 +1,8 @@
+{
+  "expo": {
+    "name": "Catálogo SENAI", "slug": "produtos-expo-aula", "version": "1.0.0",
+    "orientation": "portrait", "userInterfaceStyle": "light", "plugins": ["expo-secure-store"],
+    "ios": { "bundleIdentifier": "br.edu.aula.produtos", "infoPlist": { "NSAppTransportSecurity": { "NSAllowsLocalNetworking": true } } },
+    "android": { "package": "br.edu.aula.produtos" }
+  }
+}

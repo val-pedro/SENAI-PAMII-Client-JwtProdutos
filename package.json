@@ -1,0 +1,10 @@
+{
+  "name": "produtos-expo-aula", "version": "1.0.0", "private": true, "main": "index.js",
+  "scripts": { "start": "expo start", "android": "expo start --android", "ios": "expo start --ios", "check": "expo install --check" },
+  "dependencies": {
+    "expo": "~57.0.31", "expo-status-bar": "~57.0.1", "expo-secure-store": "~57.0.4",
+    "expo-font": "~57.0.4", "@expo/vector-icons": "^15.0.2",
+    "react": "19.2.3", "react-native": "0.86.3", "react-native-paper": "5.14.5",
+    "react-native-safe-area-context": "~5.7.0"
+  }
+}
